@@ -1,0 +1,15 @@
+.fold{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.slide1{
+    /* border: 2px solid red; */
+    margin-bottom: 2rem;
+    width: 60%;
+    margin: 3rem auto;
+
+
+}
